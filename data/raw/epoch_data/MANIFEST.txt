@@ -1,0 +1,33 @@
+EPOCH 5th Datathon — 배포 데이터
+
+봉인 시각    2026-09-30 03:20
+기준일(컷)   2026-09-01
+인코딩       UTF-8 · 줄바꿈 LF
+
+채점 대상은 sample_submission.csv 의 행입니다.
+train_labels.csv 는 학습용 정답입니다 (기준일 2026-08-11 · 2026-08-25).
+채점용 정답은 이 압축에 들어 있지 않습니다.
+
+파일                                   행 수  SHA256
+----------------------------------------------------------------------------------------------------
+app_reviews.csv                  148,157  e7ff684c2c4f19b915ef07b62a44cd875222869a685d461a11d68997f43cf835
+app_snapshots.csv                 29,262  a544acdfd215c770711d2e9374e2b9af3f0dcad72937a07e64cb68abd993ae44
+apps.csv                              47  f6810f85b2767b55e7eda8d258fe32330aec98b3b82d632b14070e3e44a65390
+channel_snapshots.csv             77,177  fcea2cbafbae7d39a7cfba0fc0691de5e032e7056f58c439d2e0ce7df9f55394
+channels.csv                       1,012  be840699cd2c5927d93317d5b2ba495faae50ca7b53ba5069e6c7c6d5969b72e
+game_app_map.csv                      65  7eacab4d4ce1937b6d81ca7f0b3dd43483c6b0de3a819e54c300d8edf61d29cf
+igdb_game_map.csv                      7  67df4677e7854c37792371c4f066aaf1dce337214f236a55a4e216db4b38ed92
+igdb_game_snapshots.csv              992  0e1d90d133617b63df2a4df7a283e8c113110601d83a5ffb70648e774ccc7dd5
+igdb_games.csv                        58  9f90b3114b7af07fba34f275dd5654f02dcd47d921cce01ebc18fb909838bdbd
+review_features.csv                2,369  70e56ea4c2fd9e789e84c6729a09a7d497d2b09c8f3e9aba1ea1f8855d755a0a
+sample_submission.csv                694  24c0c64c173ab245d9135744d30b2d3a605bfa8bb98ce8a8cb620cd3cdab0b2f
+train_labels.csv                   1,267  451a63845649f612db54f04a63f101a76f54a8e1cf81bd4b49c453d6cefafb6e
+video_5d_views.csv                31,524  03ef16766e560bef1a3ea24dce243a49c79d1f41d85c7d826fa5e0c055da14a3
+video_games.csv                    1,826  db85b2569ffcc12cfde948c55790c426f6501409f508563e30043df859ac2bf3
+video_igdb_games.csv              10,386  9aeebeaa983ebe1eb4df992b7a47b7a10eee9ab433b8ec3b3604722968b3341e
+video_topics.csv                  14,840  337a092b38d9f8352905c26aff47f2fbd249e1925a9e76660c60f49d3d14126e
+videos.csv                        38,411  527ce8385c8f6669cf66acd74da14cf85c15c69757af43c01df7aeb0dd2c4309
+
+별도 파일 (선택 다운로드)
+----------------------------------------------------------------------------------------------------
+video_snapshots.csv           18,051,339  압축 전 1,286 MB

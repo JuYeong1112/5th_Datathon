@@ -1,0 +1,66 @@
+game_name,app_id,matched_name,match_method,confidence
+엘든링,1245620,ELDEN RING,alias,0.85
+엘든 링,1245620,ELDEN RING,alias,0.85
+elden ring,1245620,ELDEN RING,alias,0.85
+gta5,271590,Grand Theft Auto V,alias,0.85
+gta 5,271590,Grand Theft Auto V,alias,0.85
+gta v,271590,Grand Theft Auto V,alias,0.85
+그타,271590,Grand Theft Auto V,alias,0.85
+지티에이,271590,Grand Theft Auto V,alias,0.85
+poe,238960,Path of Exile,alias,0.85
+패스오브엑자일,238960,Path of Exile,alias,0.85
+path of exile,238960,Path of Exile,alias,0.85
+로스트아크,1599340,Lost Ark,alias,0.85
+로아,1599340,Lost Ark,alias,0.85
+lost ark,1599340,Lost Ark,alias,0.85
+배그,578080,PUBG,alias,0.85
+배틀그라운드,578080,PUBG,alias,0.85
+pubg,578080,PUBG,alias,0.85
+사이버펑크,1091500,Cyberpunk 2077,alias,0.85
+사펑,1091500,Cyberpunk 2077,alias,0.85
+cyberpunk,1091500,Cyberpunk 2077,alias,0.85
+발더스게이트,1086940,Baldur's Gate 3,alias,0.85
+발더스,1086940,Baldur's Gate 3,alias,0.85
+baldur,1086940,Baldur's Gate 3,alias,0.85
+발헤임,892970,Valheim,alias,0.85
+valheim,892970,Valheim,alias,0.85
+레탈컴퍼니,1966720,Lethal Company,alias,0.85
+레탈,1966720,Lethal Company,alias,0.85
+lethal company,1966720,Lethal Company,alias,0.85
+하데스,1145360,Hades,alias,0.85
+hades,1145360,Hades,alias,0.85
+러스트,252490,Rust,alias,0.85
+rust,252490,Rust,alias,0.85
+테라리아,105600,Terraria,alias,0.85
+terraria,105600,Terraria,alias,0.85
+스타듀밸리,413150,Stardew Valley,alias,0.85
+스타듀,413150,Stardew Valley,alias,0.85
+stardew,413150,Stardew Valley,alias,0.85
+데바데,381210,Dead by Daylight,alias,0.85
+dead by daylight,381210,Dead by Daylight,alias,0.85
+파스모포비아,739630,Phasmophobia,alias,0.85
+파스모,739630,Phasmophobia,alias,0.85
+phasmophobia,739630,Phasmophobia,alias,0.85
+시티즌 슬리퍼,1290000,Citizen Sleeper,alias,0.85
+시티즌슬리퍼,1290000,Citizen Sleeper,alias,0.85
+citizen sleeper,1290000,Citizen Sleeper,alias,0.85
+검은 신화,2358720,Black Myth: Wukong,alias,0.85
+검은신화,2358720,Black Myth: Wukong,alias,0.85
+오공,2358720,Black Myth: Wukong,alias,0.85
+black myth,2358720,Black Myth: Wukong,alias,0.85
+호그와트,990080,Hogwarts Legacy,alias,0.85
+hogwarts,990080,Hogwarts Legacy,alias,0.85
+레데리,1174180,Red Dead Redemption 2,alias,0.85
+레드데드,1174180,Red Dead Redemption 2,alias,0.85
+red dead,1174180,Red Dead Redemption 2,alias,0.85
+위쳐3,292030,The Witcher 3,alias,0.85
+위쳐,292030,The Witcher 3,alias,0.85
+witcher,292030,The Witcher 3,alias,0.85
+팰월드,1623730,Palworld,alias,0.85
+팰월,1623730,Palworld,alias,0.85
+palworld,1623730,Palworld,alias,0.85
+헬다이버,553850,HELLDIVERS 2,alias,0.85
+helldivers,553850,HELLDIVERS 2,alias,0.85
+뱀서,1794680,Vampire Survivors,alias,0.85
+뱀파이어 서바이버,1794680,Vampire Survivors,alias,0.85
+vampire survivors,1794680,Vampire Survivors,alias,0.85

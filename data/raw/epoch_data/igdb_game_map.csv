@@ -1,0 +1,8 @@
+game_name,igdb_id,matched_name,match_method,confidence
+검은신화오공,136879,Black Myth: Wukong,exact,1.0
+호그와트레거시,136625,Hogwarts Legacy,exact,1.0
+레데리2,25076,Red Dead Redemption 2,exact,1.0
+헬다이버2,250616,Helldivers 2,exact,1.0
+오버워치2,331286,Overwatch 2: Season 15 - Honor & Glory,search,0.8
+젤다왕눈,119388,The Legend of Zelda: Tears of the Kingdom,exact,1.0
+젤다야숨,7346,The Legend of Zelda: Breath of the Wild,exact,1.0
