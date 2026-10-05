@@ -62,7 +62,7 @@
 
 ## p8 모델 해석
 
-모두 `20_model_interpretation.ipynb` ✅
+모두 `20_model_interpretation.ipynb` ✅ — 어떤 모델을 어떻게 해석했는지는 [`submissions/model_interpretation/README.md`](submissions/model_interpretation/README.md) 참고
 
 | 숫자 | 절 |
 |---|---|
